@@ -1,5 +1,8 @@
 "use strict";
 
+const Model = use("Model");
+const Hash = use("Hash");
+
 class User extends Model {
   static boot() {
     super.boot();
