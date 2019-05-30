@@ -1,7 +1,7 @@
 "use strict";
 
 class User {
-  get validadeAll() {
+  get validateAll() {
     return true;
   }
 
